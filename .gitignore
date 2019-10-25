@@ -121,3 +121,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#e-diary
+/datacentr
+/project
+schoolbase.sqlite3
